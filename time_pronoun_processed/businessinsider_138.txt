@@ -1,0 +1,32 @@
+Zoom, Palo Alto Networks, and Cisco are big winners in the remote work boom, according to a new report(#included Thursday) from Okta, as employees try(#before 2020-04-30 13:00:26) to stay(#overlap 2020-04-30 13:00:26) connected and safe .
+2020-04-30 13:00:26 +00:00 .
+Zoom, Palo Alto Networks, released(#included Thursday) new data on Thursday that showed(#included Thursday) how Zoom, Palo Alto Networks, and Cisco saw(#included Thursday) big usage(#before 2020-04-30 13:00:26) spikes during the coronavirus crisis .
+Zoom was the fastest - growing(#before 2020-04-30 13:00:26) app , with a 110 % spike in usage(#included March) in March over use in February .
+In the same time period the year before , Zoom use grew(#before 2020-04-30 13:00:26) only 6%.Okta 's daily tracking(#overlap 2020-04-30 13:00:26) of app log - ins also shows(#overlap 2020-04-30 13:00:26) dramatic swings correlating(#before 2020-04-30 13:00:26) to global events like California 's shelter - in - place order .
+Visit Business Insider 's homepage for more stories .
+the coronavirus crisis has changed(#before 2020-04-30 13:00:26) the way the world works(#overlap 2020-04-30 13:00:26) as businesses have closed(#before 2020-04-30 13:00:26) businesses offices and become(#before 2020-04-30 13:00:26) fully remote .
+New data from Zoom, Palo Alto Networks, shows(#before 2020-04-30 13:00:26) huge spikes in video conferencing and security apps as workers tried(#before 2020-04-30 13:00:26) to stay(#before 2020-04-30 13:00:26) connected and safe , with Zoom , Palo Alto Networks, , Cisco , and Citrix seeing(#before 2020-04-30 13:00:26) the biggest usage boosts(#before 2020-04-30 13:00:26) .
+" You can see(#before 2020-04-30 13:00:26) in the data people making(#before 2020-04-30 13:00:26) this work , " Okta CEO Todd McKinnon told(#before 2020-04-30 13:00:26) Business Insider 's .
+" the coronavirus crisis 's a comprehensive change in how people connected(#before 2020-04-30 13:00:26) and protected(#before 2020-04-30 13:00:26) people companies . "
+Zoom, Palo Alto Networks, analyzed(#before 2020-04-30 13:00:26) data from Zoom, Palo Alto Networks, network of nearly 8,000 customers between January 13 and March 31 to measure(#before 2020-04-30 13:00:26) how organizations are working(#overlap 2020-04-30 13:00:26) from home .
+Zoom, Palo Alto Networks, tracked(#before 2020-04-30 13:00:26) the percentage increase(#before 2020-04-30 13:00:26) in the number of unique users who logged(#before 2020-04-30 13:00:26) in at least once to determine(#before 2020-04-30 13:00:26) the fastest - growing apps .
+In a nutshell : Users zoomed(#before 2020-04-30 13:00:26) into videoconferencing and put(#before 2020-04-30 13:00:26) on the seatbelts of security apps .
+Zoom had(#included Thursday) the highest growth(#before 2020-04-30 13:00:26) .
+Both beloved(#before 2020-04-30 13:00:26) by users and besieged(#before 2020-04-30 13:00:26) by security issues , Zoom, Palo Alto Networks, experienced(#included March) 110 % growth(#included March) in unique users in March over February , according to Okta 's data .
+experienced 's compared(#included last year) to Zoom, Palo Alto Networks, 6 % growth(#included last year) during that same time period last year .
+Four of the top five apps had to do with cybersecurity .
+Two virtual private network ( VPN ) tools that provide(#before 2020-04-30 13:00:26) secure internet for remote workers also saw(#included Thursday) impressive growth(#included Thursday) , according to Okta 's data .
+Palo Alto Networks, GlobalProtect app showed(#included March) 94 % usage growth(#included March) in March over February , compared(#included March) to 20 % for that same period in 2019 .
+Cisco AnyConnect use grew(#before 2020-04-30 13:00:26) by 86 % .
+Citrix ADC , which adds(#before 2020-04-30 13:00:26) a layer of security to other apps , grew(#before 2020-04-30 13:00:26) 56 % .
+Notably , Silicon Valley cybersecurity company Proofpoint also popped(#before 2020-04-30 13:00:26) up twice on Zoom, Palo Alto Networks, chart of fastest - growing(#overlap 2020-04-30 13:00:26) apps .
+Silicon Valley cybersecurity company Proofpoint instructional tool Security Awareness Training was the fifth - fastest growing(#included March) app , with 40 % growth(#included March) in March over February , while Silicon Valley cybersecurity company Proofpoint coworking tools popped(#included March) up in 10th place with 22 % growth(#included March) in usage .
+Okta CEO Todd McKinnon says(#before 2020-04-30 13:00:26) the cybersecurity spikes were both unheralded and very important .
+" There was a lot written(#before 2020-04-30 13:00:26) about Zoom security issues and other video conference(#before 2020-04-30 13:00:26) issues , " Okta CEO Todd McKinnon said(#before 2020-04-30 13:00:26) .
+" What people did n't see(#before 2020-04-30 13:00:26) or discuss(#before 2020-04-30 13:00:26) as much was the embracing(#before 2020-04-30 13:00:26) of the security apps , and the strong multi - authentication people saw(#before 2020-04-30 13:00:26) on people platform . "
+Daily tracking(#included March) of the security apps reflects(#included March) world events in March .
+Zoom, Palo Alto Networks, daily tracking(#included March) of the two - month period shows(#overlap 2020-04-30 13:00:26) how dramatic upswings in usage actually correlated(#before 2020-04-30 13:00:26) to global events .
+Zoom, Palo Alto Networks, saw(#included March 16) a sharp increase(#included March 16) in unique user logins to Zoom , Palo Alto Networks , and Cisco 's VPN app on March 16 when many European countries had announced(#before 2020-04-30 13:00:26) lockdown(#included March 16) .
+unique user logins to Zoom , Palo Alto Networks , and Cisco 's VPN app saw(#included March 20) another spike on March 20 , when California 's began(#included March 20) a shelter - in - place directive(#included the) , and New York asked(#before 2020-04-30 13:00:26) non - essential businesses to go(#before 2020-04-30 13:00:26) remote .
+By the following(#included the) Monday , unique user logins to Zoom , Palo Alto Networks , and Cisco 's VPN app had seen(#included the) a two - week boom in log - ins of more than 150 % apiece .
+" It 's interesting to see(#before 2020-04-30 13:00:26) a direct correlation , " Okta CEO Todd McKinnon says(#before 2020-04-30 13:00:26) , " between use of unique user logins to Zoom , Palo Alto Networks , and Cisco 's VPN app and what was happening(#before 2020-04-30 13:00:26) in a world responding(#before 2020-04-30 13:00:26) to the coronavirus crisis . "

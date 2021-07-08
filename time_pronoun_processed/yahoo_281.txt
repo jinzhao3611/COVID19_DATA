@@ -1,0 +1,21 @@
+Tesla Prepares(#before 2020-03-11 12:28:08) To Increase(#before 2020-03-11 12:28:08) Gigafactory 3 Production Capacity .
+2020-03-11 12:28:08 +00:00 .
+It 's expected(#before 2020-03-11 12:28:08) that the upcoming(#after 2020-03-11 12:28:08) next step will be for 250,000 cars annually .
+Reuters reports(#overlap 2020-03-11 12:28:08) that Tesla is in the process(#overlap 2020-03-11 12:28:08) of preparation(#overlap 2020-03-11 12:28:08) to expand(#after 2020-03-11 12:28:08) Tesla manufacturing capacity at the Gigafactory 3 in Shanghai from around 150,000 cars annually to around 250,000 - 260,000 cars annually .
+A document submitted(#before 2020-03-11 12:28:08) by Tesla to the Shanghai government , seen(#before 2020-03-11 12:28:08) by Reuters , indicates(#overlap 2020-03-11 12:28:08) the intention to expand(#after 2020-03-11 12:28:08) production(#before 2020-03-11 12:28:08) of battery packs , electric motors , motor controllers and other components .
+" Tesla wants(#before 2020-03-11 12:28:08) to almost double(#after 2020-03-11 12:28:08) Tesla annual building capacity for cooling pipes , a key part in a car ’s heat management system , to 260,000 sets(#before 2020-03-11 12:28:08) a year from 150,000 .
+Tesla did not provide(#before 2020-03-11 12:28:08) capacity details for other parts . "
+" Tesla is also building(#overlap 2020-03-11 12:28:08) an additional stamping(#overlap 2020-03-11 12:28:08) line to speed(#after 2020-03-11 12:28:08) up car production(#overlap 2020-03-11 12:28:08) in Shanghai , according to construction documents seen(#before 2020-03-11 12:28:08) by Reuters . "
+See also
+As of the end of December , about 70 % of the parts in the Made - in - China ( MIC ) Model 3 were imported(#included the end of December) parts , while Tesla ultimate goal is to rely(#overlap 2020-03-11 12:28:08) only on parts produced(#before 2020-03-11 12:28:08) locally in China .
+The new production number of 250,000 cars per year would include(#after 2020-03-11 12:28:08) the new Tesla Model Y.
+We also guess(#before 2020-03-11 12:28:08) that in the near future , Tesla might officially expand(#after 2020-03-11 12:28:08) the Made - in - China ( MIC ) Model 3 production(#after 2020-03-11 12:28:08) in China from the entry - level Standard Range Plus ( RWD ) version to also Long Range / Performance and AWD versions .
+Tesla Gigafactory 3 facts : location : Shanghai , China wholly - owned subsidiary ( not joint venture ) expected(#before 2020-03-11 12:28:08) total investment(#included January 2019) : about $ 2 billion construction was started(#included January 2019) in January 2019
+purpose : production(#before 2020-03-11 12:28:08) of affordable versions of the Made - in - China ( MIC ) Model 3 for greater China region ( higher cost versions of 3 / Y and all S / X to be produced(#before 2020-03-11 12:28:08) in the U.S. ) battery packs will be assembled(#after 2020-03-11 12:28:08) using(#after 2020-03-11 12:28:08) lithium - ion cells from various suppliers , including(#overlap 2020-03-11 12:28:08) Panasonic expected(#included January 2019) volume : 150,000 per year in the first phase and 500,000 per year in the future
+Targets : production(#included December 2019) of cars ( between 1,000 to 2,000 per week by the end of January 2019 ) to start(#included December 2019) in the second - half of January 2019 ( volume production , of 3,000 cars per week initially , from 2020 ) , First customer deliveries of the Made - in - China ( MIC ) Model 3 happened on December 30 , 2019
+Elon Musk officially announced(#included January 7 , 2020) Model Y program(#included January 7 , 2020) at the Gigafactory 3 on January 7 , 2020
+Tesla was able(#included December 2019) to achieve(#included December 2019) a production rate of about 280 cars a day ( 10 - hour shift ) or almost 2,000 a week in January 2019 .
+The production capacity was up to 3,000 cars per week .
+Production of battery packs started(#included January 2019) in December 2019 ( but at the time not yet at the rate of car production(#before 2020-03-11 12:28:08) ) .
+Production of battery packs was resumed(#included December 2019) on February 10 , 2020 , after an extended break , caused(#included January 7 , 2020) by the fight with coronavirus Source :
+Reuters

@@ -1,0 +1,26 @@
+Exclusive: Trading in VIX options froze(#before 2020-03-09 23:33:23) after open - CBOE .
+2020-03-09 23:33:23 +00:00 .
+( Reuters ) - Trading(#included Monday) in options on Wall Street ’s fear gauge was impossible in the first minutes of Monday ’s session(#included Monday) due to an absence of prices from the market makers on whom trading(#included Monday) depends(#before 2020-03-09 23:33:23) , a representative of index operator CBOE Global Markets Inc ( CBOE.Z ) said(#before 2020-03-09 23:33:23) .
+FILE PHOTO :
+People walk(#overlap 2020-03-09 23:33:23) by the Chicago Board Options Exchange ( CBOE )
+Global Markets headquarters building(#included September 19 , 2018) in Chicago , Illinois , U.S. , September 19 , 2018 .
+REUTERS /
+Michael Hirtzer CBOE
+Senior Trade Desk Specialist Ryan Stone told(#before 2020-03-09 23:33:23) Reuters that VIX options were tradable at 9:51 a.m.
+ET ( 1351 GMT ) but a lack of liquidity led(#included September 19 , 2018) to a lag of about seven minutes until the first trade(#included around) , around 9:58 a.m.
+ET .
+When activity in options resumed(#before 2020-03-09 23:33:23) , VIX surged(#after December 2008) to VIX highest level since December 2008 .
+surged occurred(#included Monday) as global stock markets were melting(#included Monday) down on fears(#before 2020-03-09 23:33:23) about the spreading(#before 2020-03-09 23:33:23) coronavirus and crashing(#before 2020-03-09 23:33:23) oil prices .
+surged followed(#before 2020-03-09 23:33:23) 15 - minute trading(#before 2020-03-09 23:33:23) halts(#before 2020-03-09 23:33:23) across U.S. exchanges , triggered(#included September 19 , 2018) by an opening(#included September 19 , 2018) 7 % decline(#included September 19 , 2018) in the SP 500 .SPX that set off circuit breakers .
+the SP 500 .SPX that set off circuit breakers was last 7.6 % down and VIX was up 12.5 points at 54.46 .
+A spokesperson for index operator CBOE Global Markets Inc ( CBOE.Z ) later confirmed(#before 2020-03-09 23:33:23) that the index series was available for trading(#included around) at 9:51 a.m.
+ET but that the first trades(#before 2020-03-09 23:33:23) had not happened(#before 2020-03-09 23:33:23) until later .
+“ At 8:51 am CT , the available constituent series went(#included 8:51 am CT) into opening rotation , were available for trading(#included around) , and by 8:54 am CT , an updated(#included 8:54 am CT) value of VIX was subsequently published(#after December 2008) , ” she said(#before 2020-03-09 23:33:23) .
+“ At no time during this period did VIX experience(#before 2020-03-09 23:33:23) a technical issue . ”
+According to index operator CBOE Global Markets Inc ( CBOE.Z ) ’s website , VIX is calculated(#before 2020-03-09 23:33:23) using(#before 2020-03-09 23:33:23) standard the SP 500 .SPX that set off circuit breakers 500 options and weekly the SP 500 .SPX that set off circuit breakers 500 options that are listed(#before 2020-03-09 23:33:23) for trading(#before 2020-03-09 23:33:23) on index operator CBOE Global Markets Inc ( CBOE.Z ) .
+“ What caused(#before 2020-03-09 23:33:23) the delay(#before 2020-03-09 23:33:23) in opening(#included in) VIX - with these being products - is we had to manually open(#before 2020-03-09 23:33:23) these , ” Senior Trade Desk Specialist Ryan Stone said(#before 2020-03-09 23:33:23) .
+“ we gave(#before 2020-03-09 23:33:23) market makers the delay to ensure(#before 2020-03-09 23:33:23) market makers were getting(#before 2020-03-09 23:33:23) proper market data so market makers could properly quote(#before 2020-03-09 23:33:23) these . ”
+In line with we own rules , index operator CBOE Global Markets Inc ( CBOE.Z ) had earlier taken(#before 2020-03-09 23:33:23) a “ precautionary measure ” to not open(#before 2020-03-09 23:33:23) VIX to trading(#before 2020-03-09 23:33:23) before the bell as index operator CBOE Global Markets Inc ( CBOE.Z ) was not able to calculate(#before 2020-03-09 23:33:23) the index value at the time , after E - mini futures on the SP 500 EScv1 hit(#before 2020-03-09 23:33:23) E - mini futures on the SP 500 EScv1 5 % lower limit in premarket trade .
+VIX is widely used(#before 2020-03-09 23:33:23) by traders as a measure of expected volatility of the SP 500 .SPX that set off circuit breakers over the following(#Depend-on 2020-03-09 23:33:23) 30 days and is traders ’ main way of protecting(#overlap 2020-03-09 23:33:23) against or betting(#before 2020-03-09 23:33:23) on sharp moves(#before 2020-03-09 23:33:23) in stocks .
+Reporting(#before 2020-03-09 23:33:23) by Aaron Saldanha ;
+Editing(#before 2020-03-09 23:33:23) by Alden Bentley , Nick Zieminski and Rosalba O'Brien

@@ -1,0 +1,21 @@
+An animated map tracks(#overlap 2020-03-26 17:36:08) the spread of the coronavirus as cases were reported(#before 2020-03-26 17:36:08) in more than 180 countries .
+2020-03-26 17:36:08 +00:00 .
+the coronavirus has spread(#after 2020-03-26 17:36:08) to more than 180 countries since the coronavirus was first identified(#included 2019-12) in China in December .
+An animated map shows(#overlap 2020-03-26 17:36:08) the coronavirus progression as confirmed(#before 2020-03-26 17:36:08) cases were reported(#after 2020-03-26 17:36:08) in more places around the world .
+Visit Business Insider 's homepage for more stories .
+the coronavirus has spread(#after 2020-03-26 17:36:08) to more than 180 countries since the coronavirus was first identified(#included 2020-01) in Wuhan , China , at the end of last year .
+China placed(#included 2020-01) Wuhan , China and many other cities in the Hubei province under lockdown(#included 2020-01) in late January , but cases had already been exported(#before 2020-03-26 17:36:08) to other regions of China and other countries by then .
+An animated map shows(#overlap 2020-03-26 17:36:08) which countries confirmed(#before 2020-03-26 17:36:08) coronavirus patients — and when — after China reported(#before 2020-03-26 17:36:08) China first case .
+The World Health Organization declared(#included March 11.As) the coronavirus a pandemic(#included 2019-12) on March 11.As the rise(#before 2020-03-26 17:36:08) in new COVID-19 cases has slowed(#before 2020-03-26 17:36:08) in China , outbreaks(#before 2020-03-26 17:36:08) in other countries have grown(#before 2020-03-26 17:36:08) .
+Far more people outside of China than inside have caught(#before 2020-03-26 17:36:08) the coronavirus and died(#before 2020-03-26 17:36:08) .
+The death(#before 2020-03-26 17:36:08) tolls(#before 2020-03-26 17:36:08) in Italy and Spain have(#before 2020-03-26 17:36:08) each surpassed(#before 2020-03-26 17:36:08) China's .
+On the morning of January 20 , the coronavirus had spread(#included 2020-01) to four countries : China , Japan , South Korea , and Thailand .
+The US reported(#included 2019-12) The US first case later that day .
+Business Insider 's
+By February 15 , 28 countries had reported(#included 2020-02-15) cases of COVID-19 , and the death toll had surpassed(#included 2003) that of 2003 's SARS epidemic .
+Business Insider 's
+By March 25 , almost all countries in the world had reported(#included 2020-03-25) cases .
+Business Insider 's
+As of Wednesday , 183 countries have(#included 2020-04-01) COVID-19 patients .
+More than 495,000 coronavirus cases have been reported(#before 2020-03-26 17:36:08) worldwide , and more than 22,000 people have died(#before 2020-03-26 17:36:08) .
+Here 's a full world map of cases , deaths(#before 2020-03-26 17:36:08) , and recoveries :
